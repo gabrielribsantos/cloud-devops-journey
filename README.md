@@ -1,14 +1,12 @@
 # cloud-devops-journey
 Starting my journey in Cloud/DevOps! ☁️ 
 
-
 # Introduction to AWS Management Console
 ✅ Completed with 100% score on AWS Educate final test.
 - Learned to navigate the console
 - Locate services
 - Understand AWS global infrastructure
 
-Next step: Cloud 101
 # 📚 AWS Cloud 101 Progress
 
 ## ✅ Module 1 - Introduction to Cloud 101
@@ -34,8 +32,39 @@ Next step: Cloud 101
 
 ---
 
-## ⏳ Module 4 - Main AWS Services
-- Complete all items ⏳
-- Module in progress ⏳
-- Demonstrations of main AWS services ⏳
-- Demo: Introduction to Amazon Simple Storage Service (Amazon S3) ⏳
+## ✅ Module 4 - Main AWS Services
+- Complete all items ✅
+- Module completed ✅
+- Demonstrations of main AWS services ✅
+- Demo: Amazon S3, EC2, VPC, RDS, IAM, Lambda, CloudWatch ✅
+
+---
+
+## ✅ Module 5 - Cloud Career
+- Complete all items ✅
+- Module completed ✅
+
+---
+
+## ✅ Module 6 - Final Assessment
+- Test completed ✅
+- Module completed ✅
+
+---
+
+## ✅ Module 7 - Next Steps
+- Feedback completed ✅
+- Badge certification earned ✅
+
+---
+
+# 🎉 AWS Cloud 101 Completed!
+- Official AWS Educate Badge earned via Credly ✅
+- Strong foundation in Cloud Computing and AWS core services
+
+---
+
+# 📚 Next Module: Getting Started with Storage
+- Foundational level (2h) ⏳
+- Exploring cloud storage concepts
+- Understanding AWS storage services for data management
