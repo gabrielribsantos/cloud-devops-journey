@@ -64,7 +64,24 @@ Starting my journey in Cloud/DevOps! ☁️
 
 ---
 
-# 📚 Next Module: Getting Started with Storage
+# 📚 AWS Educate - Getting Started Series
+
+## ✅ Getting Started with Storage
+- Foundational level (2h) ✅
+- Completed all items ✅
+- Learned cloud storage concepts ✅
+- Understood AWS storage services for data management ✅
+
+---
+
+## ⏳ Getting Started with Compute
 - Foundational level (2h) ⏳
-- Exploring cloud storage concepts
-- Understanding AWS storage services for data management
+- In progress ⏳
+- Exploring AWS compute services and workloads ⏳
+
+---
+
+## ⏳ Getting Started with Networking
+- Foundational level (2h) ⏳
+- In progress ⏳
+- Learning fundamentals of cloud networking and infrastructure ⏳
