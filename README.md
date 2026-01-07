@@ -74,10 +74,12 @@ Starting my journey in Cloud/DevOps! ☁️
 
 ---
 
-## ⏳ Getting Started with Compute
-- Foundational level (2h) ⏳
-- In progress ⏳
-- Exploring AWS compute services and workloads ⏳
+## ✅ Getting Started with Compute
+- Foundational level (2h) ✅
+- Completed all items ✅
+- Learned AWS compute services and workloads ✅
+- Understood EC2, scaling, and workloads in the cloud ✅
+- Badge certification earned (AWS Educate Training Badge – Jan 6, 2026) ✅
 
 ---
 
@@ -85,3 +87,4 @@ Starting my journey in Cloud/DevOps! ☁️
 - Foundational level (2h) ⏳
 - In progress ⏳
 - Learning fundamentals of cloud networking and infrastructure ⏳
+- Focus on VPC, subnets, routing, and security groups ⏳
